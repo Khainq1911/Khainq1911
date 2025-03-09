@@ -1,4 +1,4 @@
-## 👋 Hi! I'm KhaiNguyen
+## Hello World! I'm KhaiNguyen 👋 
 ![Profile Views](https://komarev.com/ghpvc/?username=khainq1911&color=blue)
 ## 🎓 Education  
 **🏫 Hanoi University of Science and Technology (HUST)**  
@@ -12,8 +12,10 @@
 
 ## 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-## 📊 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khainq1911&theme=radical)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khainq1911&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khainq1911&layout=compact&theme=radical)  
+## 📊 **GitHub Stats** 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khainq1911/Khainq1911/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khainq1911/Khainq1911/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Khainq1911/Khainq1911/output/github-snake.svg" />
+</picture>
