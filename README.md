@@ -15,3 +15,5 @@
 
 ## 📊 **GitHub Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khainq1911&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khainq1911&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khainq1911&layout=compact&theme=radical)  
