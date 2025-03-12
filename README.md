@@ -12,8 +12,7 @@
 
 ## 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-## 📊 **GitHub Stats** 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khainq1911&theme=radical)  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khainq1911/Khainq1911/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khainq1911/Khainq1911/output/github-snake.svg" />
